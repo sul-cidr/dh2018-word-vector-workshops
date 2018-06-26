@@ -109,3 +109,5 @@ venv.bak/
 *.zip
 fiction/
 coha/
+glove.6B/
+
