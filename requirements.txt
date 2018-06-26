@@ -8,3 +8,4 @@ scikit-learn==0.19.1
 seaborn==0.8.1
 tqdm==4.23.4
 chakin==0.0.6
+fasttext==0.8.3
