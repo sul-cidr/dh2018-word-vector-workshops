@@ -1,3 +1,9 @@
+Workshop ipython notebooks from DH2018. Created by Eun Seo Jo, Javier de la Rosa, Scott Bailey.
+
+
+
+
+
 Word Vectors
 ============
 
