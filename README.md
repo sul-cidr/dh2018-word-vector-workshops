@@ -1,7 +1,7 @@
-Workshop Jupyter notebooks from DH2018. Created by Eun Seo Jo, Javier de la Rosa, Scott Bailey.
-
 Word Vectors
 ============
+
+Workshop Jupyter notebooks from DH2018. Created by Eun Seo Jo, Javier de la Rosa, Scott Bailey.
 
 Part I: <a href="https://mybinder.org/v2/gh/sul-cidr/dh2018-word-vector-workshops/master?filepath=part1.ipynb" rel="nofollow">Binder</a> | <a href="https://colab.research.google.com/github/sul-cidr/dh2018-word-vector-workshops/blob/master/part1.ipynb" rel="nofollow">Google Colab</a>
 
