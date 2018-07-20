@@ -1,0 +1,10 @@
+name: dh2018-word-vector-workshops
+
+dependencies:
+  - python=3.6
+  - numpy
+  - matplotlib
+  - cython
+  - matplotlib
+  - numpy
+  - scipy

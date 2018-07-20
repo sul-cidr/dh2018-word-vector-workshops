@@ -1,11 +1,7 @@
-Workshop ipython notebooks from DH2018. Created by Eun Seo Jo, Javier de la Rosa, Scott Bailey.
-
-
-
-
-
 Word Vectors
 ============
+
+Workshop Jupyter notebooks from DH2018. Created by Eun Seo Jo, Javier de la Rosa, Scott Bailey.
 
 Part I: <a href="https://mybinder.org/v2/gh/sul-cidr/dh2018-word-vector-workshops/master?filepath=part1.ipynb" rel="nofollow">Binder</a> | <a href="https://colab.research.google.com/github/sul-cidr/dh2018-word-vector-workshops/blob/master/part1.ipynb" rel="nofollow">Google Colab</a>
 
@@ -19,3 +15,5 @@ Part IV: <a href="https://mybinder.org/v2/gh/sul-cidr/dh2018-word-vector-worksho
 Complete repository on <a href="https://notebooks.azure.com/import/gh/versae/sul-cidr/dh2018-word-vector-workshops">Azure Notebooks</a>.
 
 For local development, please, refer to the <a href="setup.ipynb" rel="nofollow">setup notebook</a>.
+
+Code under [MIT License](LICENSE), text content under [CC BY-SA](cc-by-sa.txt). 
